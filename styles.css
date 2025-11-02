@@ -14,6 +14,7 @@ body.dark header { background: #111; }
 body.dark .card { background: #2c2c2c; color: #f9f9f9; }
 body.dark footer { background: #111; }
 
+
 /* Botão dark mode */
 #toggle-theme {
   position: fixed;
